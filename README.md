@@ -1,9 +1,5 @@
 # Задача 1. Домашнее задание к занятию "Получаем картинку от NASA"
 
-### Чеклист готовности к домашнему заданию:
-
-1. Установлена IDEA на ваш компьютер [(см инструкцию в задании 1)](https://github.com/netology-code/jdfree-homeworks/tree/jdfree-6/01#readme)
-
 ------
 
 ### Что нужно сделать
@@ -91,10 +87,6 @@ CloseableHttpClient httpClient = HttpClientBuilder.create()
 
 ------
 # Задача 2. Домашнее задание к занятию "Интегрируем приложение в Telegram"
-
-### Чеклист готовности к домашнему заданию:
-
-1. Установлена IDEA на ваш компьютер [(см инструкцию в задании 1)](https://github.com/netology-code/jdfree-homeworks/tree/jdfree-6/01#readme)
 
 ------
 
